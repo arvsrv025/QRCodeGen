@@ -1,3 +1,3 @@
 # QRCodeGen
 
-This prpject focuses on generating a QR code 
+This project focuses on generating a QR code 
