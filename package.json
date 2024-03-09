@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "This project focuses on generating a QR code",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Arnav Srivatava",
   "license": "ISC",
   "dependencies": {
-    "inquire": "^0.4.8",
+    "inquirer": "^9.2.15",
     "qr-image": "^3.2.0"
   }
 }
